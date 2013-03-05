@@ -87,6 +87,9 @@ At the moment, only a few types and countries are (partially) supported.
 * Add more data (see the Data source section)
 * Remove luhn validation for *China UnionPay* and *Diners Club enRoute*
 
+## List of legitimate card prefixes
+* http://en.wikipedia.org/wiki/List_of_Issuer_Identification_Numbers
+
 ## Data source
 All data is coming from the [Bank card number](http://en.wikipedia.org/wiki/Bank_card_number) page and the [List of Issuer Identification Numbers](http://en.wikipedia.org/wiki/List_of_Issuer_Identification_Numbers) on [Wikipedia](http://wikipedia.org). I do not assume the responsibility for wrong data.
 
